@@ -239,3 +239,7 @@ void showAlertDialog(){
 * 보통 난이도<br/>![image](https://user-images.githubusercontent.com/108790183/193715060-3144f15d-c754-41af-8c7b-b9f15b64ed97.png)
 * 어려움 난이도<br/>![image](https://user-images.githubusercontent.com/108790183/193714981-94b700be-5241-4b7a-99bb-1f880c5b7341.png)
 * 승리 후 알림창<br/>![image](https://user-images.githubusercontent.com/108790183/193715086-0102f3c5-cf4c-4987-b150-aaa13b4098ce.png)
+<br/>
+## 6. 흐름도
+
+![image](https://user-images.githubusercontent.com/108790183/193722324-8cb6ac94-7638-4452-b33f-b33f741f89ef.png)
