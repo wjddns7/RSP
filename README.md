@@ -234,3 +234,8 @@ void showAlertDialog(){
                         finish();
                     }
 ```
+## 5. 실행 화면
+* 시작 화면<br/> ![image](https://user-images.githubusercontent.com/108790183/193714923-cc6c319b-70c6-438a-9616-de966edaa367.png)
+* 보통 난이도<br/>![image](https://user-images.githubusercontent.com/108790183/193715060-3144f15d-c754-41af-8c7b-b9f15b64ed97.png)
+* 어려움 난이도<br/>![image](https://user-images.githubusercontent.com/108790183/193714981-94b700be-5241-4b7a-99bb-1f880c5b7341.png)
+* 승리 후 알림창<br/>![image](https://user-images.githubusercontent.com/108790183/193715086-0102f3c5-cf4c-4987-b150-aaa13b4098ce.png)
